@@ -7,7 +7,7 @@ Developing an DJ application called Otodecks by adding a custom deck control Com
 
 
 <h2>To run this code: </h2>
-1. The Juce application needs to be downloaded from https://juce.com/download/. 
+1. The Juce application needs to be downloaded from https://juce.com/download/. </br>
 2. It appears that the JUCE settings may require configuration, as the path to the application may be directing to an incorrect location, and the same may be true for the path to the application module.
 
 <h2> Demo  </h2>

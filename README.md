@@ -13,9 +13,10 @@ Developing an DJ application called Otodecks by adding a custom deck control Com
 <h2> Demo  </h2>
 <img width="433" alt="image" src="https://user-images.githubusercontent.com/104118335/236137547-42aaa43b-71bb-4acf-ba8e-e4e3b4a44ae0.png">
 
-https://user-images.githubusercontent.com/104118335/236149740-a91bb830-6ecf-42b4-b257-58cd4f74e6a5.mp4
+https://user-images.githubusercontent.com/104118335/236595164-16b8314d-929f-4d12-a302-a822b6b2ea08.mp4
 
-Full video can be seen here: 
+
+Full video can be seen here:https://www.youtube.com/watch?v=o4L4Yhy5-7w&t=6s
 
 
 <h2> Documentation </h2>

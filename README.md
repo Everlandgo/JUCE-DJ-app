@@ -19,5 +19,4 @@ https://user-images.githubusercontent.com/104118335/236595164-16b8314d-929f-4d12
 Full video can be seen here:https://www.youtube.com/watch?v=o4L4Yhy5-7w&t=6s
 
 
-<h2> Documentation </h2>
-https://github.com/Everlandgo/Juce-Otodecks/files/11394388/end-term.pdf
+
